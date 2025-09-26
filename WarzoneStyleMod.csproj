@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace>WarzoneStyleMod</RootNamespace>
+    <AssemblyName>WarzoneStyleMod</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="WarzoneStyleMod.cs" />
+  </ItemGroup>
+
+</Project>
